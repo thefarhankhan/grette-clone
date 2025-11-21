@@ -5,4 +5,4 @@ The link to the original website is the following:
 https://grette.no/en/
 
 The link to my replica is the following: 
-https://fk835.github.io/grette-clone/
+https://thefarhankhan.github.io/grette-clone/
